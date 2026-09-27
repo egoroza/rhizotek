@@ -88,6 +88,12 @@ interface FungusFacets {
   difficulty: string | null;
 }
 
+// TODO: "cap-color" (filters.json) isn't classified/matched here yet. capColors
+// entries are descriptive and multi-value with qualifiers (e.g. "Black (young)",
+// "Light brown (mature)"), so a single-keyword classifier like the others below
+// won't reliably bucket them — needs its own approach. Selecting a cap color in
+// the UI currently has no effect on results.
+
 function getFacets(fungus: FilterableFungus): FungusFacets {
   return {
     hymenophore: classifyHymenophore(fungus.morphology.hymenophore),

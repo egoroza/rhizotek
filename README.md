@@ -53,13 +53,30 @@ pnpm db:seed          # re-run the fungi data seed (idempotent)
 app/
   root.tsx          # HTML shell, Google Fonts, error boundary
   app.css           # Tailwind entry + design tokens (@theme)
-  routes.ts         # route config
+  routes.ts         # route config (nested under a shared Header/Footer layout)
+  routes/
+    home.tsx        # "/" — logo splash page
+    layout.tsx      # shared Header/Footer chrome, wraps every route below
+    login.tsx, signup.tsx                     # TODO stubs
+    browse/         # "/browse" (search + filters, working) and taxonomy-drilldown
+                     # routes (division/class/order/family/genus/species — TODO stubs)
+    recipes/        # TODO stubs
+    experiments/    # TODO stubs
+  components/
+    Card.tsx, Filter.tsx, Button.tsx, AutocompleteSearch.tsx
+  partials/
+    Header.tsx, Footer.tsx
   lib/
-    db.server.ts    # Prisma client (pg driver adapter)
-    auth.server.ts  # TODO: Auth0
+    db.server.ts       # Prisma client (pg driver adapter)
+    fungiFilters.ts     # search + keyword-based filter matching for Browse
+    auth.server.ts      # TODO: Auth0
+  mock-api/
+    fungi.json          # live export of the seeded DB — see prisma/export-fungi-mock.ts
+    filters.json         # Browse page's filter definitions
 prisma/
-  schema.prisma     # Fungus / FungusImage / Strain models (fungi reference data only so far)
-  seed.ts           # seeds from fungi_data_staging.json — see docs/database-schema.md
+  schema.prisma        # Fungus / FungusImage / Strain models (fungi reference data only so far)
+  seed.ts              # seeds from fungi_data_staging.json — see docs/database-schema.md
+  export-fungi-mock.ts # regenerates app/mock-api/fungi.json from the live DB (`pnpm mock:fungi`)
 docs/
   database-schema.md    # Prisma models reference
   fungi-data-schema.md  # fungi_data_staging.json shape reference
@@ -77,8 +94,18 @@ docker-compose.yml   # local Postgres for dev
 
 ## Current status
 
-This is a foundational scaffold, not a working app yet. The frontend is fully set up and ready for component/route development. Prisma now has real models and seeded data for fungi reference data (see [`docs/database-schema.md`](./docs/database-schema.md)), but `Recipe`/`Experiment`/user-account models don't exist yet. Capacitor and Auth0 are still structural stubs only — no native platforms, no auth logic — to be filled in as those pieces get built out.
+**Working:**
+- `/browse` — search box (substring match on common + scientific name) and dropdown filters (cap underside, substrate, stem shape, spore print color, chemical reactions, difficulty) live-filter a card grid pulled from `app/mock-api/fungi.json`. Filter/search state lives in the URL's query params.
+- Shared `Header`/`Footer` layout wraps every route.
+- Database: `Fungus` / `FungusImage` / `Strain` models, migrated and seeded with all 22 researched species (see [`docs/database-schema.md`](./docs/database-schema.md)).
+
+**Stubbed (`<p>TODO</p>` placeholders):** login, signup, the individual species/taxonomy detail pages under `/browse/...`, recipes, experiments.
+
+**Not started:** `Recipe`/`Experiment`/user-account models, Capacitor native platforms, Auth0.
+
+See [Known issues](#known-issues) for a couple of rough edges in what's already working.
 
 ## Known issues
 
 - React Router 8.x requires Node >22.22.0; developing on an older 22.x version works but prints a warning.
+- **Cap color filter on `/browse` needs adjustment.** It's not wired up in `app/lib/fungiFilters.ts` yet — `morphology.capColors` entries are descriptive, multi-value, life-stage-qualified strings (e.g. `"Black (young)"`, `"Light brown (mature)"`), so it needs different handling than the other filters' single-keyword matching. Flagged here and in a comment in that file.

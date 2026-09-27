@@ -56,7 +56,7 @@ Every field is `null` (or an empty array) when `isCultivatable` is `false`.
 
 | Field | Type | Notes |
 |---|---|---|
-| `difficulty` | String \| null | `"Beginner"`, `"Intermediate"`, or `"Expert"` |
+| `difficulty` | String \| null | `"Beginner"`, `"Intermediate"`, or `"Advanced"` |
 | `methods` | String[] | e.g. liquid culture, agar, cloning |
 | `defaultGrain` | String[] | |
 | `defaultBulk` | String[] | |

@@ -81,7 +81,7 @@ Please format every species according to this exact JSON structure:
       "warningMessage": "String or null"
     },
     "cultivation": {
-      "difficulty": "String (Beginner, Intermediate, Expert) or null",
+      "difficulty": "String (Beginner, Intermediate, Advanced) or null",
       "methods": ["String (e.g., liquid culture, agar, cloning)"],
       "defaultGrain": ["String"],
       "defaultBulk": ["String"],
