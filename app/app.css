@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+@theme {
+  /* Logo wordmark ("rhizotek") only */
+  --font-logo: "Momo Trust Display", sans-serif;
+  /* All other large headings */
+  --font-heading: "Momo Trust Sans", sans-serif;
+  /* Body copy and paragraphs */
+  --font-body: "IBM Plex Serif", serif;
+
+  --color-background: #f7dba7;
+  --color-text: #251605;
+  --color-accent-sage: #9cafb7;
+  --color-accent-peach: #f1ab86;
+  --color-accent-rust: #c57b57;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-text font-body;
+  }
+}
