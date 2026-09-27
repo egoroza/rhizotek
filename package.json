@@ -6,11 +6,19 @@
     "dev": "react-router dev",
     "build": "react-router build",
     "typecheck": "react-router typegen && tsc",
-    "prisma:generate": "prisma generate"
+    "prisma:generate": "prisma generate",
+    "db:seed": "prisma db seed",
+    "mock:fungi": "tsx prisma/export-fungi-mock.ts"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
   },
   "dependencies": {
     "@capacitor/core": "8.5.2",
+    "@prisma/adapter-pg": "7.10.0",
     "@prisma/client": "7.10.0",
+    "dotenv": "18.0.4",
+    "pg": "8.23.0",
     "react": "19.3.0",
     "react-dom": "19.3.0",
     "react-router": "8.4.0",
@@ -20,10 +28,12 @@
     "@capacitor/cli": "8.5.2",
     "@react-router/dev": "8.4.0",
     "@tailwindcss/vite": "4.3.3",
+    "@types/pg": "8.23.1",
     "@types/react": "19.3.0",
     "@types/react-dom": "19.3.0",
     "prisma": "7.10.0",
     "tailwindcss": "4.3.3",
+    "tsx": "4.23.15",
     "typescript": "7.0.2",
     "vite": "8.3.1"
   }

@@ -1,0 +1,2463 @@
+[
+  {
+    "id": "cmukcoic30028iirijvhp7s3l",
+    "commonName": "Bear's Head Tooth",
+    "isCultivatable": true,
+    "biography": "Bear's Head Tooth is one of Lion's Mane's less famous cousins, and it's honestly just as charming to look at — instead of a single round mass, it grows as a branching, coral-like structure with clusters of soft white spines (or \"teeth\") hanging off every branch, like little icicles.\n\nIt's native to North America and does its work on dead and dying hardwoods, quietly breaking down fallen logs and stumps in the same family as Lion's Mane (Hericiaceae) and sharing a lot of the same easygoing cultivation habits. If you've grown Lion's Mane before, Bear's Head Tooth will feel very familiar — same hardwood sawdust substrates, same general temperature and humidity ranges, same rewarding \"watch it grow overnight\" pinning stage.\n\nThe fruiting body starts out pure white and slowly turns yellowish or light brown with age, which is a good visual cue for harvest timing — you want to catch it while the spines are still fresh and white, before things start to droop and discolor.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Russulales",
+      "family": "Hericiaceae",
+      "genus": "Hericium",
+      "species": "Hericium americanum"
+    },
+    "morphology": {
+      "capColors": [
+        "White when young, yellowish to brownish with age (no true cap; coral-like fruiting body)"
+      ],
+      "hymenophore": "teeth (spines, 5-40 mm long, hanging from branches)",
+      "stipe": "Branching structure rising from a thick base rather than a single distinct stipe",
+      "chemicalReactions": [],
+      "sporePrintColor": "White"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "grain spawn",
+        "hardwood sawdust blocks",
+        "log cultivation"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-93%",
+        "temperatureRangeC": [
+          13,
+          23
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "90-95%",
+        "temperatureRangeC": [
+          18,
+          24
+        ]
+      },
+      "defaultBulk": [
+        "oak sawdust",
+        "rice bran or wheat bran (4:1 sawdust:bran)"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "hardwood sawdust spawn"
+      ],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 210,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp81800299pridhw1oz0s",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/4/42/Hericium_americanum_59312.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "John Carl Jacobs (JCJacobs)",
+        "license": "CC BY-SA 3.0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp818002a9pricw05xc2n",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/a/a8/Bear%27s_Head_Tooth_%28Hericium_americanum%29_-_Mississauga%2C_Ontario_02.jpg",
+          "caption": "Wild specimen on a hardwood log showing the branching, spine-covered structure",
+          "source": "Wikimedia Commons",
+          "attribution": "Ryan Hodnett",
+          "license": "CC BY-SA 4.0"
+        },
+        {
+          "id": "cmukcp819002b9prit5reo1fd",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/1/17/Hericium_americanum_59263.jpg",
+          "caption": "Different specimen showing spine density and coloration",
+          "source": "Wikimedia Commons",
+          "attribution": "John Carl Jacobs (JCJacobs)",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp819002c9prikpd83kpf",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzRDlEOUQ5Jy8+PGVsbGlwc2UgY3g9JzEwMCcgY3k9JzExNScgcng9Jzc1JyByeT0nNDUnIGZpbGw9JyUyM0ZGRkZGRicgc3Ryb2tlPSclMjM5OTk5OTknIHN0cm9rZS13aWR0aD0nMicvPjwvc3ZnPg==",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.611Z",
+    "updatedAt": "2026-09-27T21:48:55.913Z"
+  },
+  {
+    "id": "cmukcoico002tiiriev2i17g0",
+    "commonName": "Blue Meanies",
+    "isCultivatable": true,
+    "biography": "Blue Meanies get their name honestly — this is a mushroom that bruises an intense, almost electric blue wherever it's touched or damaged, more dramatically than most of its Psilocybe relatives. It's a dung-loving species through and through, showing up naturally on cattle, horse, and even elephant dung across tropical and subtropical regions.\n\nUnlike the golden-brown Psilocybe species, Panaeolus cyanescens has a distinctly different look — grayish-brown to bluish-gray caps, densely packed gills that turn nearly black as the spores mature, and a jet-black spore print that's actually one of the easiest ways to tell it apart from a purple-brown-spored Psilocybe at a glance.\n\nIt's a bit fussier about substrate and contamination than cubensis tends to be, generally doing best on richer, more nutrient-dense manure-based mixes rather than the simpler grain-and-coir setups that work fine for its cousins — which is part of why it's usually considered a step up in difficulty rather than a beginner's first grow.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Bolbitiaceae",
+      "genus": "Panaeolus",
+      "species": "Panaeolus cyanescens"
+    },
+    "morphology": {
+      "capColors": [
+        "Grayish-brown",
+        "Bluish-gray where bruised"
+      ],
+      "hymenophore": "gills (adnexed to broadly adnate, densely crowded, blackish at maturity)",
+      "stipe": "Slender, up to 10 cm tall, ~0.5 cm thick, white to bluish-gray, bruises intensely blue",
+      "chemicalReactions": [
+        "Bruises intensely blue when handled or damaged"
+      ],
+      "sporePrintColor": "Black"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (coprophilous/dung-associated)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "spore syringe",
+        "liquid culture",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "90%+",
+        "temperatureRangeC": [
+          24,
+          29
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "90%+",
+        "temperatureRangeC": [
+          24,
+          28
+        ]
+      },
+      "defaultBulk": [
+        "pasteurized cattle or horse manure",
+        "straw"
+      ],
+      "defaultGrain": [
+        "rye grain"
+      ],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp81r002u9pri8wl2rsog",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/270043934/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "(c) Alan Rockefeller, some rights reserved",
+        "license": "CC BY"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp81s002v9pritimbjhor",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/221877201/medium.jpeg",
+          "caption": "Different wild specimen showing gill coloration at maturity",
+          "source": "iNaturalist",
+          "attribution": "(c) Alan Rockefeller, some rights reserved",
+          "license": "CC BY"
+        },
+        {
+          "id": "cmukcp81s002w9prikzdlcn80",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/43570752/medium.jpeg",
+          "caption": "Specimen showing blue bruising on the stem",
+          "source": "iNaturalist",
+          "attribution": "(c) Alan Rockefeller, some rights reserved",
+          "license": "CC BY"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp81t002x9prieil8mkgu",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzRjBFQUQ2Jy8+PGVsbGlwc2UgY3g9JzEwMCcgY3k9JzExNScgcng9Jzc1JyByeT0nNDUnIGZpbGw9JyUyMzExMTExMScvPjwvc3ZnPg==",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.632Z",
+    "updatedAt": "2026-09-27T21:48:55.933Z"
+  },
+  {
+    "id": "cmukcoi9k000giirikdscpvq7",
+    "commonName": "Blue Oyster",
+    "isCultivatable": true,
+    "biography": "Blue Oyster is one of the classic cold-weather picks in the big Pleurotus ostreatus family, prized for that striking dark blue-gray cap that fades to a softer blue-grey as it matures. Like other oyster mushrooms it grows in dense, shelf-like clusters on dead or dying hardwood, and in the wild you'll usually spot it stacked up in overlapping tiers along a fallen log or standing dead tree.\n\nIf oyster mushrooms have a reputation as the easiest gourmet species to grow at home, Blue Oyster fits that reputation well — it colonizes fast, isn't picky about substrate (straw, sawdust, even recycled coffee grounds all work), and fruits reliably in a cooler range than most of its oyster cousins, which makes it a nice pick for anyone growing in an unheated space over fall or winter. It's genuinely one of the best first-ever mushrooms to grow if you want a fast, satisfying win.\n\nCulinarily it holds its color reasonably well when cooked and has that classic savory, slightly anise-like oyster mushroom flavor. Because it's so vigorous and forgiving, it's also a common gateway species people use to learn sterile technique before moving on to fussier mushrooms.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Pleurotaceae",
+      "genus": "Pleurotus",
+      "species": "Pleurotus ostreatus var. columbinus"
+    },
+    "morphology": {
+      "capColors": [
+        "Dark blue-gray (young)",
+        "Blue-grey (mature)"
+      ],
+      "hymenophore": "gills (decurrent)",
+      "stipe": "Short, off-center, white",
+      "chemicalReactions": [],
+      "sporePrintColor": "Off-white to pale lilac-grey"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood-decaying)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-95%",
+        "temperatureRangeC": [
+          7,
+          18
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "90-100%",
+        "temperatureRangeC": [
+          24,
+          27
+        ]
+      },
+      "defaultBulk": [
+        "wheat straw",
+        "hardwood sawdust"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "whole oat grain"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7z0000h9prirl25nzma",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/1/1e/20191213_GT_Pleurotus_ostreatus_var_columbinus.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "Ian Alexander",
+        "license": "CC BY-SA 4.0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7z1000i9pri4rnwtabd",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Pleurotus_ostreatus_JPG7.jpg",
+          "caption": "General Pleurotus ostreatus form showing the fan-shaped cap and decurrent gills shared across oyster mushroom color variants",
+          "source": "Wikimedia Commons",
+          "attribution": "Jean-Pol GRANDMONT",
+          "license": "CC BY 3.0"
+        },
+        {
+          "id": "cmukcp7z2000j9priz089rlhb",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2010-10-28_Pleurotus_ostreatus_%28Jacq.%29_P._Kumm_116409.jpg",
+          "caption": "Oyster mushrooms fruiting in a dense cluster directly on a wood substrate, showing typical habitat",
+          "source": "Wikimedia Commons",
+          "attribution": "Hamilton (ham), via Mushroom Observer",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7z3000k9prif7215g7j",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/5/58/OysterPrint.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "Keeblur",
+        "license": "CC BY-SA 3.0",
+        "isGenerated": false
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.520Z",
+    "updatedAt": "2026-09-27T21:48:55.833Z"
+  },
+  {
+    "id": "cmukcoib4001fiiriqwt89lus",
+    "commonName": "Chestnut Mushroom",
+    "isCultivatable": true,
+    "biography": "Chestnut mushroom earns its name from that warm golden-to-orange, slightly scaly cap, and it's got a satisfying nutty crunch that holds up well in stir-fries — it doesn't turn to mush the way some more delicate mushrooms do.\n\nIt grows in dense clusters on hardwood, and cultivators generally agree it's one of the more temperamental species to keep clean — it's notorious for being extra sensitive to contamination if your sterilization or technique is even a little off.\n\nThat said, growers who stick with it tend to love it precisely because it's a bit of a challenge — it rewards good technique with a mushroom that's genuinely distinct from the usual oyster/shiitake lineup.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Strophariaceae",
+      "genus": "Pholiota",
+      "species": "Pholiota adiposa"
+    },
+    "morphology": {
+      "capColors": [
+        "golden yellow",
+        "orange-brown"
+      ],
+      "hymenophore": "gills (adnate, yellowish becoming rusty brown)",
+      "stipe": "scaly, yellowish",
+      "chemicalReactions": [],
+      "sporePrintColor": "brown to rusty brown"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood decay on hardwoods)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-95%",
+        "temperatureRangeC": [
+          18,
+          19
+        ]
+      },
+      "difficulty": "Advanced",
+      "incubation": {
+        "relativeHumidity": "95-100%",
+        "temperatureRangeC": [
+          21,
+          24
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust pellets (oak or maple)",
+        "wheat bran",
+        "gypsum"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "wheat berries"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 105,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp80d001g9pri27nrqfab",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/4282429/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "Mike Lusk",
+        "license": "CC BY-NC"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp80e001h9prizwzcot83",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/38314610/medium.jpg",
+          "caption": "A different wild cluster showing golden-yellow scaly caps",
+          "source": "iNaturalist",
+          "attribution": "Christian Schwarz",
+          "license": "CC BY-NC"
+        },
+        {
+          "id": "cmukcp80f001i9prioxnj6ztj",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/39490017/medium.jpeg",
+          "caption": "A further specimen showing mature cap coloration",
+          "source": "iNaturalist",
+          "attribution": "noah_siegel",
+          "license": "CC BY-NC-SA"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp80f001j9priltexhr20",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzZjdmNWYyJy8+PGNpcmNsZSBjeD0nMTAwJyBjeT0nMTAwJyByPSc3MCcgZmlsbD0nJTIzN2E0YTJiJy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.576Z",
+    "updatedAt": "2026-09-27T21:48:55.883Z"
+  },
+  {
+    "id": "cmukcoic8002diirip7n65v5n",
+    "commonName": "Cubensis",
+    "isCultivatable": true,
+    "biography": "Psilocybe cubensis is probably the most widely documented and cultivated species in its genus, and for good reason — it's a genuinely hardy, adaptable mushroom that shows up naturally on cow and horse dung across warm, humid regions of the world.\n\nTaxonomically it sits in the Hymenogastraceae family, and like its relatives it's got that classic reddish-cinnamon to golden-brown cap that lightens toward the edges, sitting on a slender white stem. Handle it and you'll notice the flesh bruising blue-purple pretty quickly wherever it's damaged, a trait shared across the genus.\n\nBecause it's dung-associated rather than wood-associated, it grows on a very different kind of substrate than most of the gourmet species on this list — think manure, straw, or vermiculite/coir mixes rather than sawdust — which is part of why it's ended up as one of the most experimented-with species among home mycologists, with a long list of named strains and varieties that have been selected and passed around over the decades.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Hymenogastraceae",
+      "genus": "Psilocybe",
+      "species": "Psilocybe cubensis"
+    },
+    "morphology": {
+      "capColors": [
+        "Reddish-cinnamon to golden-brown"
+      ],
+      "hymenophore": "gills",
+      "stipe": "White to cream stipe, bruises bluish/purplish where damaged",
+      "chemicalReactions": [
+        "Bruises blue/purple when handled or damaged"
+      ],
+      "sporePrintColor": "Dark purple-brown"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (coprophilous/dung-associated)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "spore syringe",
+        "liquid culture",
+        "agar",
+        "cloning"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "95-100%",
+        "temperatureRangeC": [
+          20,
+          22
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "90%",
+        "temperatureRangeC": [
+          27,
+          28
+        ]
+      },
+      "defaultBulk": [
+        "vermiculite",
+        "coco coir",
+        "pasteurized manure/straw (CVG)"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "brown rice flour (PF Tek)"
+      ],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp81c002e9prinxnvbptn",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77336534/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "(c) Teodoro Chivatá Bedoya, some rights reserved",
+        "license": "CC BY-NC"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp81d002f9pri8ii6dlwc",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/66031958/medium.jpg",
+          "caption": "Different wild specimen showing typical cap shape and coloration",
+          "source": "iNaturalist",
+          "attribution": "(c) Alan Rockefeller, some rights reserved",
+          "license": "CC BY-SA"
+        },
+        {
+          "id": "cmukcp81e002g9priy1qxxh84",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/251184657/medium.jpg",
+          "caption": "Cluster of fruiting bodies in situ",
+          "source": "iNaturalist",
+          "attribution": "(c) Denis Zabin, some rights reserved",
+          "license": "CC BY"
+        },
+        {
+          "id": "cmukcp81e002h9pri9m9kh93k",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/82779929/medium.jpg",
+          "caption": "Specimen showing stem coloration and bruising",
+          "source": "iNaturalist",
+          "attribution": "(c) Alex Abair, some rights reserved",
+          "license": "CC BY"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp81f002i9pri7wdig6nb",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzRjBFQUQ2Jy8+PGVsbGlwc2UgY3g9JzEwMCcgY3k9JzExNScgcng9Jzc1JyByeT0nNDUnIGZpbGw9JyUyMzNCMjIzMycvPjwvc3ZnPg==",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [
+      {
+        "id": "cmukcp81f002j9priqymz6vzu",
+        "name": "Golden Teacher",
+        "description": "One of the most widely cultivated strains; golden-brown caps with a lighter center, moderately fast colonizer.",
+        "cultivationNotes": "Considered a standard, reliable beginner strain across most common substrates.",
+        "biography": "Golden Teacher is probably the most iconic Psilocybe cubensis strain out there, and it's often the first one new growers reach for. Its golden-brown caps with a lighter, almost translucent center have made it instantly recognizable in the community, and it's got a reputation for being a reliable, moderately fast colonizer that isn't too picky about substrate or conditions.",
+        "media": {
+          "profileImage": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/6/69/Golden_teacher_kookoskuidussa_2.jpg",
+            "source": "Wikimedia Commons",
+            "attribution": "Mädi",
+            "license": "CC BY-SA 3.0"
+          },
+          "usesParentImage": false
+        }
+      },
+      {
+        "id": "cmukcp81g002k9pri588s1cwl",
+        "name": "B+",
+        "description": "Known for producing unusually large fruiting bodies and tolerating a wider range of grow conditions than average.",
+        "cultivationNotes": "Vigorous colonizer, generally forgiving of minor contamination or temperature swings.",
+        "biography": "B+ is known for going big — it regularly produces some of the largest fruiting bodies you'll see among cubensis strains, with a thick, sturdy stem to match. It's also earned a reputation as one of the more forgiving strains around, tolerating a wider swing in temperature and humidity than most.",
+        "media": {
+          "profileImage": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77336534/medium.jpg",
+            "source": "iNaturalist",
+            "attribution": "(c) Teodoro Chivatá Bedoya, some rights reserved",
+            "license": "CC BY-NC"
+          },
+          "usesParentImage": true
+        }
+      },
+      {
+        "id": "cmukcp81g002l9privdafn6b9",
+        "name": "Jedi Mind Fuck",
+        "description": "A strain reported to have denser, thicker-stemmed fruits with darker caps than Golden Teacher.",
+        "cultivationNotes": "Cultivated the same way as standard cubensis; no special substrate requirements documented.",
+        "biography": "Jedi Mind Fuck (often just shortened to JMF) tends to produce denser, thicker-stemmed fruits with noticeably darker caps than a strain like Golden Teacher. Beyond the visual differences, it's grown the same way as any other cubensis strain, with no special substrate or environmental quirks reported in cultivation circles.",
+        "media": {
+          "profileImage": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77336534/medium.jpg",
+            "source": "iNaturalist",
+            "attribution": "(c) Teodoro Chivatá Bedoya, some rights reserved",
+            "license": "CC BY-NC"
+          },
+          "usesParentImage": true
+        }
+      },
+      {
+        "id": "cmukcp81h002m9prisqv7r70j",
+        "name": "Stargazer",
+        "description": "A hybrid strain noted for distinctive fruiting-body shapes and coloration.",
+        "cultivationNotes": "Grown with standard cubensis techniques; sometimes reported as a slower colonizer.",
+        "biography": "Stargazer is a hybrid strain that growers tend to notice for its slightly unusual fruiting-body shapes and coloration compared to more classic cubensis strains. It's sometimes reported as colonizing a touch slower than average, so patience during the spawn run tends to pay off.",
+        "media": {
+          "profileImage": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77336534/medium.jpg",
+            "source": "iNaturalist",
+            "attribution": "(c) Teodoro Chivatá Bedoya, some rights reserved",
+            "license": "CC BY-NC"
+          },
+          "usesParentImage": true
+        }
+      },
+      {
+        "id": "cmukcp81i002n9privauseqc4",
+        "name": "Penis Envy",
+        "description": "A slow-growing, mutant strain with a distinctive thick, bulbous stem and small, often unopened cap.",
+        "cultivationNotes": "Slower colonization and lower yield per flush than typical cubensis strains; often needs longer incubation.",
+        "biography": "Penis Envy stands out immediately for its shape — a thick, bulbous stem topped by a small cap that often doesn't fully open, giving it a distinctly different silhouette from a typical cubensis mushroom. It's also one of the slower-growing strains, generally taking longer to colonize and producing smaller flushes than more vigorous strains.",
+        "media": {
+          "profileImage": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/77336534/medium.jpg",
+            "source": "iNaturalist",
+            "attribution": "(c) Teodoro Chivatá Bedoya, some rights reserved",
+            "license": "CC BY-NC"
+          },
+          "usesParentImage": true
+        }
+      }
+    ],
+    "createdAt": "2026-09-27T21:48:22.616Z",
+    "updatedAt": "2026-09-27T21:48:55.918Z"
+  },
+  {
+    "id": "cmukcoi9a000aiiri8ieq4x9j",
+    "commonName": "Enoki",
+    "isCultivatable": true,
+    "biography": "There are basically two versions of enoki in most people's minds, and they look nothing alike. The one from the grocery store — pale, spindly, long-stemmed bundles in a plastic bag — is grown in the dark under low oxygen specifically to keep it blanched and leggy. Its wild cousin, growing on dead hardwood stumps and logs in the cold months, is a totally different-looking thing: short, velvety-stemmed, honey-brown caps clustered together, which is where the old nickname \"velvet foot\" comes from.\n\nWhat makes Flammulina velutipes interesting to grow is that it's a genuine cold-weather mushroom — it actually prefers to fruit in the 45-60°F range, well below where most gourmet species want to be, and it'll shrug off a light frost that would stall other mushrooms out completely. That's also its biggest challenge for home growers: enoki mycelium is fine and relatively slow-growing, so it loses the race against contaminants like Trichoderma if your sterilization technique isn't tight, which bumps it up from a total beginner mushroom to something requiring a bit more care.\n\nIf you let it grow under normal light and with regular air exchange instead of forcing the commercial dark-and-starved treatment, you get something closer to the wild look — smaller, golden-brown caps instead of the blanched noodle-bundles most people picture. It's a fun one to show people who've only ever seen the supermarket version.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Physalacriaceae",
+      "genus": "Flammulina",
+      "species": "Flammulina velutipes"
+    },
+    "morphology": {
+      "capColors": [
+        "White (cultivated)",
+        "Yellow-brown (wild type)"
+      ],
+      "hymenophore": "gills",
+      "stipe": "Long, thin, velvety; darkens to brown with age",
+      "chemicalReactions": [],
+      "sporePrintColor": "White"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood-decaying)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "80-93%",
+        "temperatureRangeC": [
+          7,
+          16
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "90-100%",
+        "temperatureRangeC": [
+          22,
+          25
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust",
+        "cottonseed hulls",
+        "wheat bran"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "whole oat grain"
+      ],
+      "targetCNRatio": 27,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7yr000b9prigpcxyofn",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2009-11-19_Flammulina_velutipes_agg_biolib.cz_crop.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "František ŠARZÍK (original), Ak ccm (derivative)",
+        "license": "CC BY-SA 3.0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7ys000c9prisiqw2uax",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Baumstamm_mit_Flammulina_velutipes.jpg",
+          "caption": "Wild Flammulina velutipes fruiting in dense clusters on a tree trunk, showing the natural darker wild-type coloration",
+          "source": "Wikimedia Commons",
+          "attribution": "4028mdk09",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "id": "cmukcp7yt000d9priwcim075f",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/27/18.12.27_Samtfu%C3%9Fr%C3%BCbling-H%C3%B6rnle.jpg",
+          "caption": "Close-up of mature caps and the characteristic dark, velvety stipe",
+          "source": "Wikimedia Commons",
+          "attribution": "Steinrösel",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7yu000e9priyb73m3rc",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Spore_Print_of_the_Week_%2837475625491%29.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "AJC1 (via Flickr)",
+        "license": "CC BY-SA 2.0",
+        "isGenerated": false
+      }
+    },
+    "strains": [
+      {
+        "id": "cmukcp7yv000f9prirhx00b3b",
+        "name": "Golden Enoki",
+        "description": "A more pigmented, closer-to-wild-type form with yellow-brown caps, sold as a distinct cultivated liquid culture/spawn strain alongside standard white enoki.",
+        "cultivationNotes": "Same substrate and temperature parameters as white enoki; retains more pigment under normal light/CO2 exposure rather than the blanched, low-light forcing used for supermarket-style white enoki.",
+        "biography": "Golden Enoki is basically what you get when you let Flammulina velutipes keep its natural coloring instead of growing it the commercial way — normal light and airflow instead of the dark, low-oxygen treatment that blanches supermarket enoki into pale noodle bundles. The result is a smaller, honey-to-golden-brown capped mushroom that looks a lot closer to the wild form, and it's become a popular pick for growers who want something a bit more visually interesting than the standard white strain.",
+        "media": {
+          "profileImage": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/f/f3/2009-11-19_Flammulina_velutipes_agg_biolib.cz_crop.jpg",
+            "source": "Wikimedia Commons",
+            "attribution": "František ŠARZÍK (original), Ak ccm (derivative)",
+            "license": "CC BY-SA 3.0"
+          },
+          "usesParentImage": true
+        }
+      }
+    ],
+    "createdAt": "2026-09-27T21:48:22.510Z",
+    "updatedAt": "2026-09-27T21:48:55.823Z"
+  },
+  {
+    "id": "cmukcoicv002yiirip1lgskl5",
+    "commonName": "Fly Agaric",
+    "isCultivatable": false,
+    "biography": "This is the mushroom everyone draws when they think \"mushroom\" — the glossy red cap with white warts that shows up on fairy tale book covers, Christmas cards, and video game power-ups. It's not a costume design, it's a real species you'll find growing right out of the ground under birches, pines, and spruces in temperate forests almost everywhere in the Northern Hemisphere (and plenty of places it's been introduced since).\n\nYou will never see this one in a grow tent, and that's not a cultivation-difficulty thing — it's a biology thing. Fly agaric is ectomycorrhizal, meaning its mycelium physically wraps around and fuses into the root tips of a living tree, trading soil minerals and water for sugars the tree makes through photosynthesis. Pull it away from that tree and it just doesn't have a life to live. So no substrate recipe, no jars, no monotub — just go for a walk in the right forest at the right time of year.\n\nWorth saying plainly since this is an educational reference: fly agaric contains ibotenic acid and muscimol, which make it toxic and psychoactive, and it has a long history of ritual and recreational use in various cultures precisely because of that. It's not something to forage and eat casually — this entry exists here purely so the app can flag it correctly as a non-cultivatable, safety-relevant species, not as a how-to.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Amanitaceae",
+      "genus": "Amanita",
+      "species": "Amanita muscaria"
+    },
+    "morphology": {
+      "capColors": [
+        "Red",
+        "Orange-red",
+        "White/yellowish warts (universal veil remnants)"
+      ],
+      "hymenophore": "Gills (white, crowded, free or narrowly attached)",
+      "stipe": "White, 5-20cm tall, bulbous base with concentric ring-like volva remnants, fluted/ragged annulus",
+      "chemicalReactions": [
+        "No notable bruising reaction; contains ibotenic acid/muscimol — toxic if ingested raw"
+      ],
+      "sporePrintColor": "White"
+    },
+    "ecology": {
+      "growthType": "Ectomycorrhizal",
+      "warningMessage": "Heads up! Amanita muscaria is an ectomycorrhizal fungus. It must form a mutually beneficial relationship with the root systems of living trees and cannot be cultivated indoors."
+    },
+    "cultivation": {
+      "methods": [],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": null,
+        "temperatureRangeC": null
+      },
+      "difficulty": null,
+      "incubation": {
+        "relativeHumidity": null,
+        "temperatureRangeC": null
+      },
+      "defaultBulk": [],
+      "defaultGrain": [],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": null,
+        "sterilizationMinutes5lb": null,
+        "sterilizationMinutes16oz": null
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp81x002z9priiw7becow",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/448681419/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "(c) Borja Fierro, some rights reserved",
+        "license": "CC-BY"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp81x00309pridql895c7",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/111494893/medium.jpg",
+          "caption": "A cluster spanning growth stages, from unopened warty buttons to a fully expanded, flattened cap showing the white gills and skirt-like ring underneath",
+          "source": "iNaturalist",
+          "attribution": "(c) Federico Calledda, some rights reserved",
+          "license": "CC-BY-NC"
+        },
+        {
+          "id": "cmukcp81y00319pri603g67le",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/604381581/medium.jpg",
+          "caption": "A small group growing in grass, with a flattened mature cap next to younger dome-shaped fruiting bodies still covered in warts",
+          "source": "iNaturalist",
+          "attribution": "(c) Isaac Capp, some rights reserved",
+          "license": "CC-BY-NC"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp81y00329prive9i2z0q",
+        "url": "data:image/svg+xml;base64,PHN2ZyUyMHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyclMjB3aWR0aD0nMjAwJyUyMGhlaWdodD0nMjAwJz48cmVjdCUyMHdpZHRoPScyMDAnJTIwaGVpZ2h0PScyMDAnJTIwZmlsbD0ncmdiKDIzNSwyMzUsMjM1KScvPjxjaXJjbGUlMjBjeD0nMTAwJyUyMGN5PScxMDAnJTIwcj0nNzAnJTIwZmlsbD0ncmdiKDI1NSwyNTUsMjU1KSclMjBzdHJva2U9J3JnYigyMDAsMjAwLDIwMCknJTIwc3Ryb2tlLXdpZHRoPSczJy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.639Z",
+    "updatedAt": "2026-09-27T21:48:55.939Z"
+  },
+  {
+    "id": "cmukcoid80038iiriczfqw9ht",
+    "commonName": "Golden Chanterelle",
+    "isCultivatable": false,
+    "biography": "Golden chanterelles are the mushroom-shaped mushrooms that don't actually look like typical mushrooms — no cap-and-stem silhouette, just a warm egg-yolk-yellow trumpet or funnel that flares out at the top with wavy, ruffled edges. Flip one over and instead of true gills you get blunt, forked, vein-like ridges running down onto the stem, which is one of the easiest field marks in the whole hobby once you've seen it in person.\n\nThey're famously, stubbornly wild. Like the other two species here, chanterelles are ectomycorrhizal — tied into a living, breathing partnership with tree roots (oaks, pines, spruces, and beeches are common partners depending on region) — and despite plenty of attempts, nobody has cracked reliable indoor cultivation of them the way we have with oysters or shiitake. If you want one, you're finding it, not growing it.\n\nForagers love them for a mild, faintly fruity/apricot smell and a firm texture that holds up well in a pan, and they're one of the more confidently-identified wild edibles once you know the ridge-not-gill trick — though as always with wild mushrooms, a solid ID (and knowing the look-alikes, like the toxic jack-o'-lantern mushroom) matters more than a photo on an app.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Cantharellales",
+      "family": "Hydnaceae",
+      "genus": "Cantharellus",
+      "species": "Cantharellus cibarius"
+    },
+    "morphology": {
+      "capColors": [
+        "Orange",
+        "Yellow",
+        "White (funnel-shaped)"
+      ],
+      "hymenophore": "False gills (blunt, forked ridges running down the stipe, same color as cap)",
+      "stipe": "Length similar to cap width, tapering, same color as rest of the mushroom",
+      "chemicalReactions": [
+        "No notable bruising or staining reaction"
+      ],
+      "sporePrintColor": "Whitish to pale yellow"
+    },
+    "ecology": {
+      "growthType": "Ectomycorrhizal",
+      "warningMessage": "Heads up! Cantharellus cibarius is an ectomycorrhizal fungus. It must form a mutually beneficial relationship with the root systems of living trees and cannot be cultivated indoors."
+    },
+    "cultivation": {
+      "methods": [],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": null,
+        "temperatureRangeC": null
+      },
+      "difficulty": null,
+      "incubation": {
+        "relativeHumidity": null,
+        "temperatureRangeC": null
+      },
+      "defaultBulk": [],
+      "defaultGrain": [],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": null,
+        "sterilizationMinutes5lb": null,
+        "sterilizationMinutes16oz": null
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp82800399pri5o1wjt2q",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/309948593/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "(c) Federico Calledda, some rights reserved",
+        "license": "CC-BY-NC"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp829003a9pribovd424s",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/78254813/medium.jpg",
+          "caption": "Extreme close-up of the blunt, forked ridges (false gills) that run down the stipe — the key feature that distinguishes chanterelles from true gilled mushrooms",
+          "source": "iNaturalist",
+          "attribution": "(c) Björn S..., some rights reserved",
+          "license": "CC-BY-SA"
+        },
+        {
+          "id": "cmukcp82a003b9pri6f10ouln",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/3798048/medium.jpg",
+          "caption": "A single specimen held up to show its wavy, funnel-shaped cap margin, found growing in deciduous leaf litter",
+          "source": "iNaturalist",
+          "attribution": "(c) Jennifer Linde, some rights reserved",
+          "license": "CC-BY-NC"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp82a003c9pri07sx70cr",
+        "url": "data:image/svg+xml;base64,PHN2ZyUyMHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyclMjB3aWR0aD0nMjAwJyUyMGhlaWdodD0nMjAwJz48cmVjdCUyMHdpZHRoPScyMDAnJTIwaGVpZ2h0PScyMDAnJTIwZmlsbD0ncmdiKDI1NSwyNTUsMjU1KScvPjxjaXJjbGUlMjBjeD0nMTAwJyUyMGN5PScxMDAnJTIwcj0nNzAnJTIwZmlsbD0ncmdiKDI1MCwyNDAsMjEwKSclMjBzdHJva2U9J3JnYigyMjUsMjE1LDE4NSknJTIwc3Ryb2tlLXdpZHRoPSczJy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.652Z",
+    "updatedAt": "2026-09-27T21:48:55.950Z"
+  },
+  {
+    "id": "cmukcoia2000qiiriwb1rtupp",
+    "commonName": "Golden Oyster",
+    "isCultivatable": true,
+    "biography": "Golden Oyster brings a completely different look to the oyster mushroom lineup — bright lemon-yellow, thin, wavy-edged caps that grow in tight, flower-like bouquets radiating out from a central point. It's native to parts of eastern Russia, northern China, and Japan, but it's become a bit of a wild-card outside cultivation too: escaped/naturalized populations have shown up on dead hardwood in parts of North America, which has made it a mushroom foragers get genuinely excited to stumble on.\n\nAs a grow, it's rated easy by most growers, but it's got one real quirk compared to its oyster cousins: it's fussier about temperature and really wants things warm to fruit well, whereas classic grey or blue oysters will tolerate a much wider swing. Keep it in the warm range it likes and it rewards you with fast colonization and a genuinely gorgeous-looking harvest that photographs better than almost any other gourmet mushroom.\n\nOne thing worth knowing if you're keeping spore-heavy cultures around: Golden Oyster has been flagged in some regions for being a prolific, easily airborne sporer, which is part of why some growers prefer working with it in a well-ventilated space or wearing a mask during harvest.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Pleurotaceae",
+      "genus": "Pleurotus",
+      "species": "Pleurotus citrinopileatus"
+    },
+    "morphology": {
+      "capColors": [
+        "Lemon yellow"
+      ],
+      "hymenophore": "gills (decurrent)",
+      "stipe": "Short or absent",
+      "chemicalReactions": [],
+      "sporePrintColor": "Light pink to pale lilac/white"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood-decaying)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-95%",
+        "temperatureRangeC": [
+          21,
+          32
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "90-100%",
+        "temperatureRangeC": [
+          24,
+          29
+        ]
+      },
+      "defaultBulk": [
+        "wheat straw",
+        "hardwood sawdust"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "whole oat grain"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7zf000r9prie44mewxk",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/29/Pleurotus_citrinopileatus_at_Chatama%27s_home.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": null,
+        "license": "CC0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7zg000s9pri9jdwu3dm",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Golden_mushroom_%281%29.jpg",
+          "caption": "Cluster of golden oyster mushrooms showing the bright lemon-yellow, wavy-edged caps",
+          "source": "Wikimedia Commons",
+          "attribution": "Fumikas Sagisavas",
+          "license": "CC0"
+        },
+        {
+          "id": "cmukcp7zh000t9priink59w5k",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/4/43/Kuldservik.jpg",
+          "caption": "Golden oyster mushrooms growing in a dense cluster, showing the flower-like radiating cap arrangement typical of the species",
+          "source": "Wikimedia Commons",
+          "attribution": "Svencapoeira",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7zh000u9prihvcxv8en",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nI2ZmZmZmZicvPjxjaXJjbGUgY3g9JzEwMCcgY3k9JzEwMCcgcj0nNzUnIGZpbGw9JyNlM2M5ZDYnLz48L3N2Zz4=",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.538Z",
+    "updatedAt": "2026-09-27T21:48:55.848Z"
+  },
+  {
+    "id": "cmukcoid20033iiriy7n2rg4n",
+    "commonName": "King Bolete / Porcini",
+    "isCultivatable": false,
+    "biography": "Ask any forager what mushroom they'd want to find on a walk in the woods and there's a good chance they'll say this one. King bolete is a big, meaty, reddish-brown-capped mushroom with a bulging club-shaped stem and a spongy layer of pores instead of gills underneath — and unlike a lot of wild mushrooms, it's genuinely one of the safer, easier-to-recognize ones to get excited about (the classic \"look, no gills\" bolete check goes a long way, though you'd still want a confident ID before eating anything wild).\n\nLike fly agaric, this one lives entirely on a handshake with a living tree — it's ectomycorrhizal, wrapping its mycelium around the fine roots of pines, spruces, oaks, and birches and swapping soil nutrients for sugar. That partnership is why you find porcini fruiting in the same patches of forest year after year, and why there's no substrate recipe or jar of grain spawn that's ever going to replace an actual forest floor.\n\nDried porcini are a pantry staple in a lot of kitchens for good reason — concentrated, nutty, umami-heavy flavor that holds up in stocks, risottos, and sauces. This entry is here mainly so the app can show it as a real, well-loved species while flagging clearly that it's a forage-only find, not a grow-your-own one.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Boletales",
+      "family": "Boletaceae",
+      "genus": "Boletus",
+      "species": "Boletus edulis"
+    },
+    "morphology": {
+      "capColors": [
+        "Reddish-brown",
+        "Fading to white near margin"
+      ],
+      "hymenophore": "Pores (whitish when young, maturing to greenish-yellow, ~2-3 pores/mm)",
+      "stipe": "8-25cm tall, up to 7cm thick, club-shaped/bulging, finely reticulate upper portion",
+      "chemicalReactions": [
+        "Does not stain when bruised, or turns very light brown/light red"
+      ],
+      "sporePrintColor": "Olive-brown"
+    },
+    "ecology": {
+      "growthType": "Ectomycorrhizal",
+      "warningMessage": "Heads up! Boletus edulis is an ectomycorrhizal fungus. It must form a mutually beneficial relationship with the root systems of living trees and cannot be cultivated indoors."
+    },
+    "cultivation": {
+      "methods": [],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": null,
+        "temperatureRangeC": null
+      },
+      "difficulty": null,
+      "incubation": {
+        "relativeHumidity": null,
+        "temperatureRangeC": null
+      },
+      "defaultBulk": [],
+      "defaultGrain": [],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": null,
+        "sterilizationMinutes5lb": null,
+        "sterilizationMinutes16oz": null
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp82300349pricel8d8q4",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/328303120/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "(c) wp-polzin, some rights reserved",
+        "license": "CC-BY-NC"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp82300359pri3xmflmpx",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29239600/medium.jpeg",
+          "caption": "A haul of young, button-stage specimens with pale caps, nestled among fallen beech leaves before the cap darkens with age",
+          "source": "iNaturalist",
+          "attribution": "(c) Davide Puddu, some rights reserved",
+          "license": "CC-BY"
+        },
+        {
+          "id": "cmukcp82400369prigdzma35r",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/354358918/medium.jpg",
+          "caption": "Close-up of a mature specimen showing the finely netted (reticulate) pattern on the upper stem, growing in mossy conifer needle litter",
+          "source": "iNaturalist",
+          "attribution": "(c) MK-fotky, some rights reserved",
+          "license": "CC-BY-NC-ND"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp82500379prib42jfhwo",
+        "url": "data:image/svg+xml;base64,PHN2ZyUyMHhtbG5zPSdodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyclMjB3aWR0aD0nMjAwJyUyMGhlaWdodD0nMjAwJz48cmVjdCUyMHdpZHRoPScyMDAnJTIwaGVpZ2h0PScyMDAnJTIwZmlsbD0ncmdiKDI1MCwyNDUsMjM1KScvPjxjaXJjbGUlMjBjeD0nMTAwJyUyMGN5PScxMDAnJTIwcj0nNzAnJTIwZmlsbD0ncmdiKDExMCw4NSw0MCknLz48L3N2Zz4=",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.646Z",
+    "updatedAt": "2026-09-27T21:48:55.944Z"
+  },
+  {
+    "id": "cmukcoiab000viirigvau9ocl",
+    "commonName": "King Oyster / King Trumpet",
+    "isCultivatable": true,
+    "biography": "King oyster is basically the bodybuilder cousin of the oyster mushroom family — instead of the thin, floppy caps you get from blue or pink oysters, you get one thick, stubby white stem with a small tan cap perched on top. It's the one gourmet cooks reach for when they want something that sears up like a scallop or even holds its own sliced into 'steaks.'\n\nIn the wild it's a bit of an oddball too. Most oysters are pure wood decomposers, but P. eryngii likes to hang around the dying roots of umbellifer plants like fennel and sea holly (Eryngium — hence the name), acting almost as much like a root-dweller as a wood-rotter.\n\nOn the grow bench it's also a little more high-maintenance than its cousins: slower to colonize, less aggressive against contaminants, and it really wants a full pressure sterilization rather than just a pasteurization. Worth the patience though — the texture payoff is real.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Pleurotaceae",
+      "genus": "Pleurotus",
+      "species": "Pleurotus eryngii"
+    },
+    "morphology": {
+      "capColors": [
+        "tan",
+        "light brown",
+        "brown"
+      ],
+      "hymenophore": "gills (decurrent, white)",
+      "stipe": "thick, club-shaped, white",
+      "chemicalReactions": [],
+      "sporePrintColor": "white to pale lilac-gray"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (also weakly parasitic on roots of Apiaceae plants such as Eryngium)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-93%",
+        "temperatureRangeC": [
+          7,
+          16
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "85-95%",
+        "temperatureRangeC": [
+          21,
+          27
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust",
+        "wheat bran"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "whole wheat berries"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 165,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7zm000w9pri7oyzinef",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29410378/medium.jpeg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "Davide Puddu",
+        "license": "CC BY"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7zm000x9prigqhkuzhx",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/29410382/medium.jpeg",
+          "caption": "A second wild-collected specimen from the same observer, showing the same thick white stipe and small tan cap typical of the species",
+          "source": "iNaturalist",
+          "attribution": "Davide Puddu",
+          "license": "CC BY"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7zn000y9pripw7f6w4q",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzZjdmNWYyJy8+PGNpcmNsZSBjeD0nMTAwJyBjeT0nMTAwJyByPSc3MCcgZmlsbD0nJTIzY2FjMmQ2JyBzdHJva2U9JyUyM2E4OWJjMCcgc3Ryb2tlLXdpZHRoPScyJy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.547Z",
+    "updatedAt": "2026-09-27T21:48:55.855Z"
+  },
+  {
+    "id": "cmukcoi8z0005iirit3p1vbvl",
+    "commonName": "Lion's Mane",
+    "isCultivatable": true,
+    "biography": "Lion's Mane looks like nothing else in the mushroom world — instead of a cap and gills, you get this shaggy white ball of dangling icicle-like spines that genuinely does look like a lion's mane (or a pom-pom, depending who you ask). It grows wild on wounds in living or freshly dead hardwood trees across the northern hemisphere, usually pretty high up on the trunk, which is part of why foragers get excited when they spot one.\n\nIt's a rewarding species to grow at home once you know its one big pet peeve: fresh air. Lion's Mane is unusually sensitive to CO2 buildup, and if your fruiting chamber isn't getting enough fresh air exchange, instead of a nice dense fruiting body you'll get weird, spindly, coral-like growths reaching for oxygen. Give it a well-ventilated tent and it rewards you with a genuinely beautiful, substantial harvest — colonization is on the slower side, so patience matters more here than with something like oyster mushrooms.\n\nBeyond the kitchen (where it famously shreds into something crab- or lobster-like when cooked), Lion's Mane has become something of a wellness darling in recent years thanks to ongoing research into compounds like hericenones and erinacines. That's a whole separate conversation from growing it, but it's a big part of why this one's so popular with home cultivators right now.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Russulales",
+      "family": "Hericiaceae",
+      "genus": "Hericium",
+      "species": "Hericium erinaceus"
+    },
+    "morphology": {
+      "capColors": [
+        "White (young)",
+        "Cream",
+        "Yellowish-brown (aging)"
+      ],
+      "hymenophore": "teeth (spines)",
+      "stipe": "Short or absent; forms a single globular, shaggy fruiting mass",
+      "chemicalReactions": [],
+      "sporePrintColor": "White"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood-decaying)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-95%",
+        "temperatureRangeC": [
+          18,
+          24
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "90-100%",
+        "temperatureRangeC": [
+          21,
+          24
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust",
+        "wheat bran"
+      ],
+      "defaultGrain": [
+        "whole oat grain",
+        "rye grain"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7yi00069priu8upn02y",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Lion%27s-mane_mushroom_imported_from_iNaturalist_photo_29576097_on_21_March_2024.jpg",
+        "caption": null,
+        "source": "iNaturalist (via Wikimedia Commons)",
+        "attribution": "Alison Northup",
+        "license": "CC BY 4.0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7yj00079prionolace3",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/37/2006-11-03_Hericium_erinaceus_crop.jpg",
+          "caption": "Close-up of a mature fruiting body showing the dense cascade of tooth-like spines",
+          "source": "Wikimedia Commons",
+          "attribution": "Lebrac (original), Ak ccm (derivative)",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "id": "cmukcp7yk00089prir5upjjyq",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/31/2012-10-02_Hericium_erinaceus_%28Bull.%29_Pers_268393.jpg",
+          "caption": "Lion's Mane fruiting directly from a wound on a hardwood trunk, its typical wild habitat",
+          "source": "Wikimedia Commons",
+          "attribution": "Christine Braaten (wintersbefore)",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7yl00099priy7mos87d",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nIzJiMmIyYicvPjxjaXJjbGUgY3g9JzEwMCcgY3k9JzEwMCcgcj0nNzUnIGZpbGw9JyNmZmZmZmYnLz48L3N2Zz4=",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.499Z",
+    "updatedAt": "2026-09-27T21:48:55.814Z"
+  },
+  {
+    "id": "cmukcoiai000ziiriwkz7uiib",
+    "commonName": "Maitake / Hen of the Woods",
+    "isCultivatable": true,
+    "biography": "Maitake shows up in the fall clustered at the base of old oak trees, looking like a big ruffled bouquet of grayish-brown fan-shaped caps — which is exactly where 'hen of the woods' comes from. Foragers get genuinely excited finding one of these because a single cluster can be enormous and it tends to come back at the same spot year after year.\n\nBeyond the kitchen, maitake's got a long history in traditional medicine circles and a pretty deep research base around its beta-glucans, so a lot of growers cultivate it as much for tinctures and extracts as for cooking.\n\nIt's not the easiest thing to grow at home, though — it likes cooler fruiting temps than most gourmet mushrooms and can be a little fussier about triggering pins, so it's a good 'next mushroom' once you've got oysters or shiitake down.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Polyporales",
+      "family": "Grifolaceae",
+      "genus": "Grifola",
+      "species": "Grifola frondosa"
+    },
+    "morphology": {
+      "capColors": [
+        "gray",
+        "grayish-brown",
+        "brown"
+      ],
+      "hymenophore": "pores (small, white)",
+      "stipe": "highly branched, whitish, many overlapping caps fused at a common base",
+      "chemicalReactions": [],
+      "sporePrintColor": "white"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (root/butt rot, primarily on oak and other hardwoods)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "90%",
+        "temperatureRangeC": [
+          15,
+          20
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "90%+",
+        "temperatureRangeC": [
+          21,
+          26
+        ]
+      },
+      "defaultBulk": [
+        "oak sawdust",
+        "wheat bran",
+        "gypsum"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "wheat berries"
+      ],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7zs00109pri75e0tp8u",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/7027079/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "Davide Puddu",
+        "license": "CC BY"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7zs00119prikxfxzdaw",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/99085994/medium.jpg",
+          "caption": "A different wild cluster, released into the public domain by the observer",
+          "source": "iNaturalist",
+          "attribution": "Bethany Teigen",
+          "license": "CC0"
+        },
+        {
+          "id": "cmukcp7zt00129prip0e0dn4s",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2446319/medium.jpg",
+          "caption": "A third example from a different location and observer, showing the same overlapping frilly cap clusters at a tree base",
+          "source": "iNaturalist",
+          "attribution": "Kari Pihlaviita",
+          "license": "CC BY-NC"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7zu00139primjsivr62",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzZDhkOGQ4Jy8+PGNpcmNsZSBjeD0nMTAwJyBjeT0nMTAwJyByPSc3MCcgZmlsbD0nJTIzZmZmZmZmJyBzdHJva2U9JyUyM2JiYmJiYicgc3Ryb2tlLXdpZHRoPScyJy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.554Z",
+    "updatedAt": "2026-09-27T21:48:55.861Z"
+  },
+  {
+    "id": "cmukcoiay001aiirisv0xqix4",
+    "commonName": "Nameko",
+    "isCultivatable": true,
+    "biography": "Nameko is the little mushroom behind that slippery, glistening texture you've probably slurped up in miso soup without ever seeing what it looked like fresh. In person it's small clusters of amber-orange caps with a gelatinous coating that gives them their signature slick mouthfeel.\n\nIt grows naturally on dead hardwood like beech and elm, popping out in tight bunches rather than as lone mushrooms, which makes harvesting satisfying — you get a whole cluster at once.\n\nIt's a solid intermediate grow: not the fussiest thing out there, but it wants things a bit more humid and a bit cooler at fruiting than your average oyster mushroom, and it takes its time getting there.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Strophariaceae",
+      "genus": "Pholiota",
+      "species": "Pholiota microspora"
+    },
+    "morphology": {
+      "capColors": [
+        "orange-brown",
+        "amber",
+        "darker at center"
+      ],
+      "hymenophore": "gills (adnate, pale yellow-brown)",
+      "stipe": "slender, pale, with veil/ring remnants",
+      "chemicalReactions": [],
+      "sporePrintColor": "rusty brown"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood decay, primarily on beech and elm)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "90-95%",
+        "temperatureRangeC": [
+          13,
+          18
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "85-95%",
+        "temperatureRangeC": [
+          21,
+          24
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust (oak, beech, or alder)",
+        "wheat bran or rice bran"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "millet"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp807001b9pri2017ilyv",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/1695576/medium.jpeg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "Qwert1234",
+        "license": "Public Domain"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp808001c9pribezexqn4",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/345983927/medium.jpg",
+          "caption": "A wild cluster showing the gelatinous orange-brown caps typical of the species",
+          "source": "iNaturalist",
+          "attribution": "jamesho86",
+          "license": "CC BY-NC"
+        },
+        {
+          "id": "cmukcp809001d9prirsvjro2y",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/589618636/medium.jpg",
+          "caption": "Another observation showing the clustered growth habit on wood",
+          "source": "iNaturalist",
+          "attribution": "Suzu Sato",
+          "license": "CC BY-NC"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp80a001e9pri3hp0pp3y",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzZjdmNWYyJy8+PGNpcmNsZSBjeD0nMTAwJyBjeT0nMTAwJyByPSc3MCcgZmlsbD0nJTIzOGI0NTEzJy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.570Z",
+    "updatedAt": "2026-09-27T21:48:55.876Z"
+  },
+  {
+    "id": "cmukcoicj002oiiritjofybx5",
+    "commonName": "Natal Super Strength",
+    "isCultivatable": true,
+    "biography": "Psilocybe natalensis hails from South Africa's KwaZulu-Natal region, which is where it gets both its species name and its common name. It's a close cousin of P. cubensis and shares a lot of the same basic biology — similar caramel-to-golden-brown caps, a slender stem that bruises blue where it's handled, and the same general dung-loving, saprotrophic lifestyle.\n\nWhat tends to set it apart in grower circles is how forgiving it is — it's often described as colonizing fast and tolerating a wider range of temperatures and humidity than its more famous cousin, which makes it a pretty approachable species for someone who's already comfortable with the basics of grain spawn and bulk substrate.\n\nSince it's such a close relative of cubensis, most people growing it use nearly identical setups — grain spawn moving into a manure- or coir-based bulk substrate — with just slightly more relaxed environmental parameters.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Hymenogastraceae",
+      "genus": "Psilocybe",
+      "species": "Psilocybe natalensis"
+    },
+    "morphology": {
+      "capColors": [
+        "Caramel to golden-brown"
+      ],
+      "hymenophore": "gills",
+      "stipe": "White to yellowish, slender and fibrous, bruises blue when handled",
+      "chemicalReactions": [
+        "Bruises blue when handled or damaged"
+      ],
+      "sporePrintColor": "Dark purple-brown"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "spore syringe",
+        "liquid culture",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "90-95%",
+        "temperatureRangeC": [
+          15,
+          25
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "90-95%",
+        "temperatureRangeC": [
+          25,
+          28
+        ]
+      },
+      "defaultBulk": [
+        "vermiculite",
+        "coco coir",
+        "manure-based substrate"
+      ],
+      "defaultGrain": [
+        "rye grain"
+      ],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp81l002p9prix6i3f8to",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15664219/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "(c) lizziepop, some rights reserved",
+        "license": "CC BY-NC"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp81m002q9pria65osidq",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15664221/medium.jpg",
+          "caption": "Different specimen from the same wild population, showing cap shape variation",
+          "source": "iNaturalist",
+          "attribution": "(c) lizziepop, some rights reserved",
+          "license": "CC BY-NC"
+        },
+        {
+          "id": "cmukcp81n002r9pri5y12hm63",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/15664224/medium.jpg",
+          "caption": "Close-up showing stem coloration and blue bruising",
+          "source": "iNaturalist",
+          "attribution": "(c) lizziepop, some rights reserved",
+          "license": "CC BY-NC"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp81o002s9privt4dyhyu",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzRjBFQUQ2Jy8+PGVsbGlwc2UgY3g9JzEwMCcgY3k9JzExNScgcng9Jzc1JyByeT0nNDUnIGZpbGw9JyUyMzNCMjIzMycvPjwvc3ZnPg==",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.627Z",
+    "updatedAt": "2026-09-27T21:48:55.927Z"
+  },
+  {
+    "id": "cmukcoi9s000liiriu9i07w1e",
+    "commonName": "Pink Oyster",
+    "isCultivatable": true,
+    "biography": "Pink Oyster is the showiest member of the oyster mushroom family — vivid coral-pink, almost coral-reef-looking clusters that fade toward a paler rose as they age. It's a tropical species through and through, native to warm regions worldwide and genuinely one of the most heat-tolerant gourmet mushrooms you can grow, happy fruiting well into the 80s°F where most other species would stall or cook themselves.\n\nThat heat tolerance makes it a favorite for growers in hot climates or anyone growing through summer without much climate control, and it's fast — often fruiting within days of pinning once conditions are right. The tradeoff is that it doesn't hold up well once picked; Pink Oyster has a famously short shelf life and gets mushy quickly, so it's much more of a \"grow it and eat it same-day\" mushroom than something you're stocking up in the fridge.\n\nIt's also aggressively easy to colonize substrate, which is a blessing and a curse — great for beginners chasing a fast win, but it can outcompete and smother other species if grown too close together in a shared space.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Pleurotaceae",
+      "genus": "Pleurotus",
+      "species": "Pleurotus djamor"
+    },
+    "morphology": {
+      "capColors": [
+        "Coral pink",
+        "Salmon pink"
+      ],
+      "hymenophore": "gills (decurrent)",
+      "stipe": "Very short or absent",
+      "chemicalReactions": [],
+      "sporePrintColor": "Pink"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (tropical wood-decaying)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "70-80%",
+        "temperatureRangeC": [
+          20,
+          30
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "90-100%",
+        "temperatureRangeC": [
+          24,
+          28
+        ]
+      },
+      "defaultBulk": [
+        "wheat straw",
+        "hardwood sawdust"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "whole oat grain"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7z8000m9pripbbfedft",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/2/21/Pleurotus_djamor_crop.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "Gerly123 (original), Ak ccm (derivative)",
+        "license": "CC BY-SA 3.0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7z9000n9prixji94prp",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0d/20210628_Pleurotus_djamor_1.jpg",
+          "caption": "Cluster of pink oyster mushrooms showing the vivid coral-pink coloration typical of young, healthy fruiting bodies",
+          "source": "Wikimedia Commons",
+          "attribution": "Zinnmann",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "id": "cmukcp7z9000o9prisytxp9t8",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/3/30/2013-12-30_Pleurotus_djamor_var._roseus_Corner_400691.jpg",
+          "caption": "Pleurotus djamor var. roseus, showing the paler rose-colored form the species can take as it ages or in different populations",
+          "source": "Wikimedia Commons",
+          "attribution": "Susanne Sourell, via Mushroom Observer",
+          "license": "CC BY-SA 3.0"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7za000p9priymskx8u1",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nI2ZkZjZmMCcvPjxjaXJjbGUgY3g9JzEwMCcgY3k9JzEwMCcgcj0nNzUnIGZpbGw9JyNkOThhYTEnLz48L3N2Zz4=",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.528Z",
+    "updatedAt": "2026-09-27T21:48:55.841Z"
+  },
+  {
+    "id": "cmukcoiba001kiiri9q504eyy",
+    "commonName": "Pioppino / Black Poplar",
+    "isCultivatable": true,
+    "biography": "Pioppino, sometimes called the black poplar mushroom, is a dark, velvety-capped mushroom that grows in dense clusters on poplar and willow wood — and it's a genuine favorite in Italian cooking for its firm, meaty texture that holds together nicely in sauces and stews.\n\nWhat makes it a fun (if slightly finicky) one to cultivate is the 'cold shock' trick: you spawn-run it warm, then deliberately drop the temperature to trigger pinning, almost like tricking it into thinking winter just happened.\n\nOnce it's fruiting, though, it's a pretty forgiving, prolific cropper — dense clusters of dark brown caps on a sturdy, ringed stem.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Tubariaceae",
+      "genus": "Cyclocybe",
+      "species": "Cyclocybe aegerita"
+    },
+    "morphology": {
+      "capColors": [
+        "dark brown",
+        "chestnut brown",
+        "tan when mature"
+      ],
+      "hymenophore": "gills (adnate, pale becoming brown)",
+      "stipe": "firm, fibrous, velvety, with a persistent ring",
+      "chemicalReactions": [],
+      "sporePrintColor": "brown-tobacco"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood decay, especially on poplar and willow)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "80-90%",
+        "temperatureRangeC": [
+          10,
+          28
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "85-90%",
+        "temperatureRangeC": [
+          20,
+          26
+        ]
+      },
+      "defaultBulk": [
+        "wheat straw or hardwood sawdust",
+        "wheat bran (5-10%)"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "wheat berries"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 105,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp80j001l9pri5u7ha2ra",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/274016662/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist (filed under synonym Cyclocybe cylindracea)",
+        "attribution": "Inés Vázquez Cabrillana",
+        "license": "CC BY-NC"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp80j001m9primxqk5uw7",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/102802263/medium.jpeg",
+          "caption": "Another cluster showing the dark brown, velvety cap surface",
+          "source": "iNaturalist (filed under synonym Cyclocybe cylindracea)",
+          "attribution": "John Plischke",
+          "license": "CC BY-NC"
+        },
+        {
+          "id": "cmukcp80k001n9pridppucu5i",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/2999808/medium.JPG",
+          "caption": "A further wild specimen illustrating the persistent ring on the stipe",
+          "source": "iNaturalist (filed under synonym Cyclocybe cylindracea)",
+          "attribution": "Flavio Rocchi",
+          "license": "CC BY-NC"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp80k001o9privsqyamtq",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzZjdmNWYyJy8+PGNpcmNsZSBjeD0nMTAwJyBjeT0nMTAwJyByPSc3MCcgZmlsbD0nJTIzNmY0ZTM3Jy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.582Z",
+    "updatedAt": "2026-09-27T21:48:55.889Z"
+  },
+  {
+    "id": "cmukcoiaq0014iiri1t9vlaqr",
+    "commonName": "Reishi",
+    "isCultivatable": true,
+    "biography": "Reishi is the mushroom that looks like it was dipped in varnish — that shiny, lacquered reddish-brown cap is unmistakable, and it's honestly more sculpture than food. Nobody's searing this one up for dinner; it's woody and bitter, which is exactly why it gets simmered into teas, tinctures, and extracts instead.\n\nIt's got serious pedigree too, showing up in East Asian herbal medicine for literally thousands of years under names like lingzhi, long before anyone knew what a beta-glucan was.\n\nOne fun cultivation trick: if you keep fresh air exchange constantly high during fruiting instead of letting CO2 build up, reishi won't form its normal conk shape at all — it just keeps branching outward into weird antler-like fingers instead. That's where the 'Antler Reishi' look comes from.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Polyporales",
+      "family": "Polyporaceae",
+      "genus": "Ganoderma",
+      "species": "Ganoderma lucidum"
+    },
+    "morphology": {
+      "capColors": [
+        "reddish-brown",
+        "varnished red",
+        "mahogany"
+      ],
+      "hymenophore": "pores (white when young, browning with age)",
+      "stipe": "lateral or absent, dark red-brown, varnished/lacquered surface",
+      "chemicalReactions": [
+        "pore surface bruises and darkens brown when scratched"
+      ],
+      "sporePrintColor": "brown"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic/parasitic (white rot wood decay fungus on hardwoods)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "60-95% (95% at pinning, tapering to 60% during conk/cap maturation)",
+        "temperatureRangeC": [
+          25,
+          28
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "80%",
+        "temperatureRangeC": [
+          24,
+          28
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust",
+        "wheat bran"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "whole wheat berries"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 120,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7zz00159priazluy7gx",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33544632/medium.jpeg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "Ilya Filippov",
+        "license": "CC BY"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp80000169pri6fp8qlu0",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/242915645/medium.jpeg",
+          "caption": "Another specimen showing the reddish-brown lacquered cap surface",
+          "source": "iNaturalist",
+          "attribution": "Надія Миленко",
+          "license": "CC BY-NC"
+        },
+        {
+          "id": "cmukcp80100179pridcdmxwpw",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/94359990/medium.jpeg",
+          "caption": "A further wild specimen illustrating natural variation in cap shape and shine",
+          "source": "iNaturalist",
+          "attribution": "Octávio Mateus",
+          "license": "CC BY-NC"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp80100189priyih689lr",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzZjdmNWYyJy8+PGNpcmNsZSBjeD0nMTAwJyBjeT0nMTAwJyByPSc3MCcgZmlsbD0nJTIzNmI0NDIzJy8+PC9zdmc+",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [
+      {
+        "id": "cmukcp80200199prifpp3kt9h",
+        "name": "Antler Reishi",
+        "description": "A form grown with continuous fresh-air exchange and no CO2 buildup, preventing cap formation and producing branching, antler-like fruiting bodies instead of the typical conk shape.",
+        "cultivationNotes": "Keep FAE high and constant throughout fruiting; do not reduce fresh air exchange or a normal capped conk will begin to form instead.",
+        "biography": "Antler Reishi isn't a separate genetic strain so much as a growing trick applied to regular Ganoderma lucidum — by keeping fresh-air exchange high and steady all the way through fruiting instead of letting CO2 build up, the mushroom never gets the signal to form its usual flat, lacquered conk. Instead it just keeps branching outward into these odd, pale, antler-like fingers, which is honestly half the appeal — it looks more like coral or deer antlers than a typical bracket fungus.",
+        "media": {
+          "profileImage": {
+            "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/33544632/medium.jpeg",
+            "source": "iNaturalist",
+            "attribution": "Ilya Filippov",
+            "license": "CC BY"
+          },
+          "usesParentImage": true
+        }
+      }
+    ],
+    "createdAt": "2026-09-27T21:48:22.562Z",
+    "updatedAt": "2026-09-27T21:48:55.868Z"
+  },
+  {
+    "id": "cmukcoi7x0000iiri4cekeekx",
+    "commonName": "Shiitake",
+    "isCultivatable": true,
+    "biography": "Shiitake's been a staple in East Asian cooking for well over a thousand years, and it's easy to see why once you've tasted one fresh off a log — deep, meaty, umami-packed in a way that punches way above its weight for a mushroom that basically just wants to eat dead wood. It's native to warm, humid parts of East Asia where it naturally fruits on fallen broadleaf trees like oak and chinquapin, and traditional growers have been inoculating logs with it for centuries rather than messing with anything fancier.\n\nAs a home or small-scale grow, shiitake is genuinely one of the friendlier options out there. It'll happily colonize hardwood sawdust blocks instead of logs if you want faster turnaround, and it doesn't throw a fit over minor environmental swings the way some fussier species do. The one quirky must-know: shiitake really wants a cold-water dunk (or a solid temperature drop) to snap it into fruiting mode after the block's fully colonized — skip that step and you can end up waiting around wondering why nothing's happening.\n\nTexture-wise the cap is dense and a little chewy even cooked, while the stem is fibrous enough that most people just trim it off for stock rather than eating it outright. It's also one of the most-studied medicinal mushrooms out there, mostly thanks to lentinan, a compound from the fruiting body that's been the subject of a ton of immune-related research — though that's a separate rabbit hole from the cultivation side of things.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Omphalotaceae",
+      "genus": "Lentinula",
+      "species": "Lentinula edodes"
+    },
+    "morphology": {
+      "capColors": [
+        "Black (young)",
+        "Dark brown",
+        "Light brown (mature)"
+      ],
+      "hymenophore": "gills",
+      "stipe": "Fibrous, tough, light brown, bruises brownish",
+      "chemicalReactions": [],
+      "sporePrintColor": "White"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (wood-decaying)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "agar",
+        "grain spawn"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "80-90%",
+        "temperatureRangeC": [
+          13,
+          21
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "90-100%",
+        "temperatureRangeC": [
+          21,
+          24
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust",
+        "wheat bran"
+      ],
+      "defaultGrain": [
+        "whole oat grain",
+        "rye grain"
+      ],
+      "targetCNRatio": 30,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp7y700019pri5ei7xh7i",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/6/64/Shiitakegrowing.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "frankenstoen (Portland, Oregon)",
+        "license": "CC BY 2.0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp7y900029priy1nco1qk",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Carriere_de_meriel_shiitake.jpg",
+          "caption": "Shiitake fruiting bodies growing directly on log substrate, a traditional outdoor cultivation method",
+          "source": "Wikimedia Commons",
+          "attribution": "Édouard Bergé (Raoudoudou)",
+          "license": "CC BY 3.0"
+        },
+        {
+          "id": "cmukcp7ya00039pris806e1h9",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/e/ec/2013_Harvest_Festival_and_Farmer%27s_Market_Outdoors_Season_Closure_%2820131122-NRCS-LSC-0041%29.jpg",
+          "caption": "Freshly harvested shiitake mushrooms on display at a US farmers market",
+          "source": "Wikimedia Commons",
+          "attribution": "USDA",
+          "license": "Public domain"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp7yb00049pricdwzaxmj",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nIzJiMmIyYicvPjxjaXJjbGUgY3g9JzEwMCcgY3k9JzEwMCcgcj0nNzUnIGZpbGw9JyNmZmZmZmYnLz48L3N2Zz4=",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.461Z",
+    "updatedAt": "2026-09-27T21:48:55.775Z"
+  },
+  {
+    "id": "cmukcoibx0023iiri1alvfh4u",
+    "commonName": "Turkey Tail",
+    "isCultivatable": true,
+    "biography": "Turkey Tail is less about eating and more about looking cool and being interesting — you'll spot it on dead logs and stumps almost anywhere in the world, growing in tight, overlapping fan shapes with rings of brown, tan, gray, and blue that genuinely do look like a turkey's fanned-out tail feathers.\n\nIt's a polypore, meaning the underside is covered in tiny pores instead of gills, and it's a serious wood-decomposer — a white-rot fungus that breaks down the tough lignin in dead wood, which is a big part of why it's been studied so much for its enzymes and compounds. Unlike a lot of the gourmet species on this list, nobody's really growing Turkey Tail for the dinner table; it's typically dried rather than eaten fresh.\n\nCultivation-wise it's refreshingly low-maintenance — it'll happily colonize supplemented hardwood sawdust or even inoculated logs, and it's forgiving of the kind of minor temperature and humidity swings that stress out fussier species.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Polyporales",
+      "family": "Polyporaceae",
+      "genus": "Trametes",
+      "species": "Trametes versicolor"
+    },
+    "morphology": {
+      "capColors": [
+        "Multicolored concentric bands: brown, tan, gray, blue, black"
+      ],
+      "hymenophore": "pores",
+      "stipe": "Stalkless (sessile); grows as thin, fan-shaped shelf brackets directly from wood",
+      "chemicalReactions": [],
+      "sporePrintColor": "White"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic (white-rot wood decomposer)",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "grain spawn",
+        "log cultivation"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "80-85%",
+        "temperatureRangeC": [
+          18,
+          25
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": null,
+        "temperatureRangeC": [
+          21,
+          28
+        ]
+      },
+      "defaultBulk": [
+        "hardwood sawdust",
+        "wheat bran (80:20 sawdust:bran)"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "wheat grain",
+        "millet"
+      ],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 150,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp81200249pri3zky4pb1",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/27005174/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": null,
+        "license": "CC0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp81300259priurgk9lsp",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/2/2d/20130803Trametes_versicolor.jpg",
+          "caption": "Overlapping shelf brackets on a log, showing the concentric color bands",
+          "source": "Wikimedia Commons",
+          "attribution": "AnRo0002",
+          "license": "CC0"
+        },
+        {
+          "id": "cmukcp81300269primtxhcpfr",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/b/b7/2017-12-28_%28163%29_Trametes_versicolor_%28turkey_tail%29_and_bryophytes_between_Wei%C3%9Fenburggegend_and_Hofstadtgegend_in_Frankenfels.jpg",
+          "caption": "Wild growth habitat on a fallen log alongside moss",
+          "source": "Wikimedia Commons",
+          "attribution": "GT1976",
+          "license": "CC BY-SA 4.0"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp81400279pri7wzl21ld",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzRDlEOUQ5Jy8+PGVsbGlwc2UgY3g9JzEwMCcgY3k9JzExNScgcng9Jzc1JyByeT0nNDUnIGZpbGw9JyUyM0ZGRkZGRicgc3Ryb2tlPSclMjM5OTk5OTknIHN0cm9rZS13aWR0aD0nMicvPjwvc3ZnPg==",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.605Z",
+    "updatedAt": "2026-09-27T21:48:55.908Z"
+  },
+  {
+    "id": "cmukcoibn001viirio1kyl3g4",
+    "commonName": "White Button Mushroom",
+    "isCultivatable": true,
+    "biography": "This is the one everyone already knows, whether they realize it or not — the plain white mushroom sitting in the produce aisle. What a lot of people don't realize is that the white button, the brown cremini, and the giant portobello are all the exact same species, just harvested at different points in its life (and sometimes selected for color).\n\nAgaricus bisporus was one of the earliest species to be cultivated commercially at scale, and it's still grown roughly the same way today: on a carefully composted mix of straw and manure, topped with a casing layer that helps trigger fruiting. It's a bit more of a production process than most gourmet species — composting alone can take a couple of weeks before you're anywhere near a harvest — which is part of why it's traditionally been more of a commercial-scale crop than a home-grower favorite.\n\nLeft alone, the cap slowly darkens and flattens from a tight white button into a broad, dark-gilled portobello, with cremini sitting right in the middle. Same mushroom, three different stages — and it's honestly a fun one to watch progress if you ever get the chance to grow it yourself.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Agaricaceae",
+      "genus": "Agaricus",
+      "species": "Agaricus bisporus"
+    },
+    "morphology": {
+      "capColors": [
+        "White (button form)",
+        "Pale grey-brown (wild type)",
+        "Brown (cremini/portobello form)"
+      ],
+      "hymenophore": "gills",
+      "stipe": "White stipe 2-5 cm tall, 1.5-2.5 cm thick, roughly equal to slightly bulbous at base, with a white cottony-membranous ring; bruises slowly brown",
+      "chemicalReactions": [
+        "Bruises brown when cut or handled"
+      ],
+      "sporePrintColor": "Blackish-brown"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "grain spawn",
+        "compost cultivation"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-90%",
+        "temperatureRangeC": [
+          18,
+          22
+        ]
+      },
+      "difficulty": "Intermediate",
+      "incubation": {
+        "relativeHumidity": "95%+",
+        "temperatureRangeC": [
+          24,
+          25
+        ]
+      },
+      "defaultBulk": [
+        "wheat straw",
+        "poultry manure compost",
+        "peat/chalk casing layer"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "wheat grain"
+      ],
+      "targetCNRatio": null,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": null,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp80v001w9priupfanp5w",
+        "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/ChampignonMushroom.jpg",
+        "caption": null,
+        "source": "Wikimedia Commons",
+        "attribution": "Chris 73 (chris_73)",
+        "license": "CC BY-SA 3.0"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp80v001x9pri79vo3skz",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/c/cb/2014-02-12_Agaricus_bisporus_%28J.E._Lange%29_Imbach_403679.jpg",
+          "caption": "Mature specimen in situ showing cap shape and gill coloration",
+          "source": "Wikimedia Commons",
+          "attribution": "Ron Pastorino (Ronpast)",
+          "license": "CC BY-SA 3.0"
+        },
+        {
+          "id": "cmukcp80w001y9pri4pc45nso",
+          "url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Agaricus_bisporus_hymenium.png",
+          "caption": "Close-up of the gill (hymenium) structure on the cap underside",
+          "source": "Wikimedia Commons",
+          "attribution": null,
+          "license": "Public domain"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp80x001z9pri63m39t04",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzRjBFQUQ2Jy8+PGVsbGlwc2UgY3g9JzEwMCcgY3k9JzExNScgcng9Jzc1JyByeT0nNDUnIGZpbGw9JyUyMzJFMjMyMCcvPjwvc3ZnPg==",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [
+      {
+        "id": "cmukcp80y00209priyp0y34pe",
+        "name": "White Button",
+        "description": "The immature, unopened form of the species and the most common grocery-store mushroom; white cap, mild flavor.",
+        "cultivationNotes": "Harvested earliest of the three forms, at the smallest cap size, before the veil breaks.",
+        "biography": "White Button is really just Agaricus bisporus caught at its youngest, most tightly closed stage — small white cap, unopened veil, and the mildest flavor of the three forms. It's picked earliest in the flush, well before the cap has any chance to darken or flatten out.",
+        "media": {
+          "profileImage": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/ChampignonMushroom.jpg",
+            "source": "Wikimedia Commons",
+            "attribution": "Chris 73 (chris_73)",
+            "license": "CC BY-SA 3.0"
+          },
+          "usesParentImage": true
+        }
+      },
+      {
+        "id": "cmukcp80y00219priteyms96g",
+        "name": "Cremini (Baby Bella)",
+        "description": "A brown-capped, slightly more mature form of the same species with a firmer texture and deeper flavor than white button.",
+        "cultivationNotes": "Same substrate/process as white button; simply left to mature a bit longer before harvest.",
+        "biography": "Cremini splits the difference between White Button and Portobello — same mushroom, just picked a little later, once the cap has taken on a light brown color and the texture has firmed up a bit. It's sometimes marketed as \"baby bella,\" which is really just a nod to it being a young portobello.",
+        "media": {
+          "profileImage": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/ChampignonMushroom.jpg",
+            "source": "Wikimedia Commons",
+            "attribution": "Chris 73 (chris_73)",
+            "license": "CC BY-SA 3.0"
+          },
+          "usesParentImage": true
+        }
+      },
+      {
+        "id": "cmukcp80z00229prinx4487gn",
+        "name": "Portobello",
+        "description": "The fully mature form of the same species, with a large, flat, dark brown cap and fully opened gills.",
+        "cultivationNotes": "Left on the shelf substantially longer than button/cremini harvests to allow full cap expansion.",
+        "biography": "Portobello is White Button all grown up — left on the shelf long enough for the veil to break and the cap to flatten out into a wide, dark brown disc with fully exposed, deep brown gills. That extra time on the shelf also means more moisture loss, which is part of why portobellos have a denser, meatier bite than their younger siblings.",
+        "media": {
+          "profileImage": {
+            "url": "https://upload.wikimedia.org/wikipedia/commons/0/01/ChampignonMushroom.jpg",
+            "source": "Wikimedia Commons",
+            "attribution": "Chris 73 (chris_73)",
+            "license": "CC BY-SA 3.0"
+          },
+          "usesParentImage": true
+        }
+      }
+    ],
+    "createdAt": "2026-09-27T21:48:22.595Z",
+    "updatedAt": "2026-09-27T21:48:55.900Z"
+  },
+  {
+    "id": "cmukcoibg001piiri4zb7mz45",
+    "commonName": "Wine Cap (King Stropharia)",
+    "isCultivatable": true,
+    "biography": "If you've ever wandered through a garden bed mulched with wood chips and spotted a mushroom with a burgundy cap the size of a dinner plate, there's a good chance it was a Wine Cap. This one's a favorite among home growers who'd rather not fuss with jars and pressure cookers — toss some spawn into a wood-chip bed in a shady spot in your yard, and it'll happily go to work turning old branches and mulch into soil (and mushrooms) for years.\n\nWine Caps get their name from that deep burgundy, almost wine-colored cap, though it fades to a more tan-brown as the mushroom ages and the cap flattens out. The stem carries a thick, shaggy ring, which is where the \"rugosoannulata\" (wrinkled ring) part of its scientific name comes from. It's an easygoing partner in the garden too — since it's just breaking down dead wood rather than needing anything alive to team up with, it plays nice with whatever else you're growing nearby.\n\nBecause it thrives outdoors on wood chips rather than in sterile jars, Wine Cap is often one of the first \"real\" mushrooms new growers try after getting comfortable with basic sterile technique — it's genuinely hard to mess up, and there's something satisfying about a mushroom bed that just keeps producing season after season.",
+    "taxonomy": {
+      "division": "Basidiomycota",
+      "class": "Agaricomycetes",
+      "order": "Agaricales",
+      "family": "Strophariaceae",
+      "genus": "Stropharia",
+      "species": "Stropharia rugosoannulata"
+    },
+    "morphology": {
+      "capColors": [
+        "Burgundy",
+        "Reddish-brown"
+      ],
+      "hymenophore": "gills",
+      "stipe": "White stipe up to 9-25 cm with a thick, deeply grooved (wrinkled) ring (annulus); gills grayish, turning purple-black as spores mature",
+      "chemicalReactions": [],
+      "sporePrintColor": "Purple-brown"
+    },
+    "ecology": {
+      "growthType": "Saprotrophic",
+      "warningMessage": null
+    },
+    "cultivation": {
+      "methods": [
+        "liquid culture",
+        "grain spawn",
+        "outdoor bed cultivation"
+      ],
+      "fruiting": {
+        "targetVPD": null,
+        "relativeHumidity": "85-95%",
+        "temperatureRangeC": [
+          16,
+          21
+        ]
+      },
+      "difficulty": "Beginner",
+      "incubation": {
+        "relativeHumidity": "70-75%",
+        "temperatureRangeC": [
+          21,
+          27
+        ]
+      },
+      "defaultBulk": [
+        "hardwood wood chips",
+        "straw"
+      ],
+      "defaultGrain": [
+        "rye grain",
+        "wheat grain"
+      ],
+      "targetCNRatio": 40,
+      "thermodynamics": {
+        "sterilizationPSI": 15,
+        "sterilizationMinutes5lb": 180,
+        "sterilizationMinutes16oz": 90
+      }
+    },
+    "media": {
+      "profileImage": {
+        "id": "cmukcp80o001q9prixl0cyyu2",
+        "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/282486244/medium.jpg",
+        "caption": null,
+        "source": "iNaturalist",
+        "attribution": "(c) tchitcherine, some rights reserved",
+        "license": "CC BY-NC"
+      },
+      "additionalImages": [
+        {
+          "id": "cmukcp80p001r9pri98wtma4s",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/133167759/medium.jpg",
+          "caption": "Mature wine cap specimen showing the burgundy cap color and grayish gills",
+          "source": "iNaturalist",
+          "attribution": "(c) Annie Weissman, some rights reserved",
+          "license": "CC BY"
+        },
+        {
+          "id": "cmukcp80q001s9priwgydbcog",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67414/medium.jpg",
+          "caption": "Wine caps fruiting in a wood-chip garden bed, showing typical outdoor cultivation habitat",
+          "source": "iNaturalist",
+          "attribution": "(c) apa3a, some rights reserved",
+          "license": "CC BY"
+        },
+        {
+          "id": "cmukcp80q001t9pritzhhka5y",
+          "url": "https://inaturalist-open-data.s3.amazonaws.com/photos/67415/medium.jpg",
+          "caption": "Close-up of the stipe and deeply grooved annulus (ring)",
+          "source": "iNaturalist",
+          "attribution": "(c) apa3a, some rights reserved",
+          "license": "CC BY"
+        }
+      ],
+      "sporePrintImage": {
+        "id": "cmukcp80r001u9priepdkzuh1",
+        "url": "data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPScyMDAnIGhlaWdodD0nMjAwJz48cmVjdCB3aWR0aD0nMjAwJyBoZWlnaHQ9JzIwMCcgZmlsbD0nJTIzRjBFQUQ2Jy8+PGVsbGlwc2UgY3g9JzEwMCcgY3k9JzExNScgcng9Jzc1JyByeT0nNDUnIGZpbGw9JyUyMzVDM0E0RScvPjwvc3ZnPg==",
+        "caption": null,
+        "source": null,
+        "attribution": null,
+        "license": null,
+        "isGenerated": true
+      }
+    },
+    "strains": [],
+    "createdAt": "2026-09-27T21:48:22.588Z",
+    "updatedAt": "2026-09-27T21:48:55.894Z"
+  }
+]

@@ -4,7 +4,87 @@ generator client {
 
 datasource db {
   provider = "postgresql"
-  url      = env("DATABASE_URL")
 }
 
-// Models (Recipe, Experiment, Observation, etc.) go here as features are built.
+enum FungusImageType {
+  PROFILE
+  ADDITIONAL
+  SPORE_PRINT
+}
+
+/// A cultivable (or informational-only) fungi species. Seeded from fungi_data_staging.json
+/// via prisma/seed.ts — see docs/database-schema.md and docs/fungi-data-schema.md.
+model Fungus {
+  id             String  @id @default(cuid())
+  commonName     String
+  isCultivatable Boolean
+  biography      String
+
+  // Taxonomy
+  division String
+  class    String
+  order    String
+  family   String
+  genus    String
+  species  String
+
+  // Morphology
+  capColors         String[]
+  hymenophore       String
+  stipe             String
+  chemicalReactions String[]
+  sporePrintColor   String
+
+  // Ecology
+  growthType     String
+  warningMessage String?
+
+  /// Default recipe values (methods, substrates, C:N ratio, incubation/fruiting
+  /// conditions, sterilization thermodynamics) — kept as JSON since it's a template
+  /// copied into a user's own Recipe rather than data queried on its own.
+  cultivation Json?
+
+  images  FungusImage[]
+  strains Strain[]
+
+  createdAt DateTime @default(now())
+  updatedAt DateTime @updatedAt
+
+  @@unique([genus, species])
+}
+
+model FungusImage {
+  id       String @id @default(cuid())
+  fungus   Fungus @relation(fields: [fungusId], references: [id], onDelete: Cascade)
+  fungusId String
+
+  type        FungusImageType
+  url         String
+  caption     String?
+  source      String?
+  attribution String?
+  license     String?
+  isGenerated Boolean         @default(false)
+
+  @@index([fungusId])
+}
+
+model Strain {
+  id       String @id @default(cuid())
+  fungus   Fungus @relation(fields: [fungusId], references: [id], onDelete: Cascade)
+  fungusId String
+
+  name             String
+  description      String
+  cultivationNotes String
+  biography        String
+
+  imageUrl         String?
+  imageSource      String?
+  imageAttribution String?
+  imageLicense     String?
+  usesParentImage  Boolean @default(false)
+
+  @@unique([fungusId, name])
+  @@index([fungusId])
+}

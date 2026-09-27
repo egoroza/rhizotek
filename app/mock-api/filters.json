@@ -1,0 +1,83 @@
+[
+  {
+    "id": "cap-color",
+    "label": "Cap Color",
+    "param": "cap-color",
+    "options": [
+      { "label": "White", "value": "white" },
+      { "label": "Yellow", "value": "yellow" },
+      { "label": "Orange", "value": "orange" },
+      { "label": "Red", "value": "red" },
+      { "label": "Pink", "value": "pink" },
+      { "label": "Brown", "value": "brown" },
+      { "label": "Gray", "value": "gray" },
+      { "label": "Blue", "value": "blue" },
+      { "label": "Black", "value": "black" }
+    ]
+  },
+  {
+    "id": "hymenophore",
+    "label": "Cap Underside",
+    "param": "hymenophore",
+    "options": [
+      { "label": "Gilled", "value": "gilled" },
+      { "label": "Pored", "value": "pored" },
+      { "label": "Toothed", "value": "toothed" },
+      { "label": "Other", "value": "other" }
+    ]
+  },
+  {
+    "id": "substrate",
+    "label": "Substrate & Ecology",
+    "param": "substrate",
+    "options": [
+      { "label": "Wood-Decay", "value": "wood-decay" },
+      { "label": "Soil & Litter", "value": "soil-litter" },
+      { "label": "Dung", "value": "dung" },
+      { "label": "Tree Symbiont (Mycorrhizal)", "value": "mycorrhizal" }
+    ]
+  },
+  {
+    "id": "morphology",
+    "label": "Cap & Stem Shape",
+    "param": "morphology",
+    "options": [
+      { "label": "Central Stem", "value": "central-stem" },
+      { "label": "Off-Center Stem (Pleurotoid)", "value": "pleurotoid" },
+      { "label": "Sessile / No Stem", "value": "sessile" },
+      { "label": "Veiled (Volva or Ring)", "value": "veiled" }
+    ]
+  },
+  {
+    "id": "spore-print-color",
+    "label": "Spore Print Color",
+    "param": "spore-print-color",
+    "options": [
+      { "label": "White", "value": "white" },
+      { "label": "Pink", "value": "pink" },
+      { "label": "Brown", "value": "brown" },
+      { "label": "Purple-Black", "value": "purple-black" },
+      { "label": "Black", "value": "black" }
+    ]
+  },
+  {
+    "id": "chemical-reactions",
+    "label": "Chemical Reactions",
+    "param": "chemical-reactions",
+    "options": [
+      { "label": "Bruising", "value": "bruising" },
+      { "label": "Color Change When Cut", "value": "color-change" },
+      { "label": "Latex Secretion", "value": "latex" }
+    ]
+  },
+  {
+    "id": "difficulty",
+    "label": "Cultivation Difficulty",
+    "param": "difficulty",
+    "options": [
+      { "label": "Beginner", "value": "beginner" },
+      { "label": "Intermediate", "value": "intermediate" },
+      { "label": "Advanced", "value": "advanced" }
+    ]
+  }
+]

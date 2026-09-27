@@ -20,7 +20,7 @@ Recipes (a species/strain's full supply list, measurements, and ratios) are the 
 |---|---|---|
 | Frontend framework | [React Router 7](https://reactrouter.com/) (SPA mode) | TypeScript, Vite. `ssr: false` — builds to a static SPA bundle. |
 | Styling | [Tailwind CSS v4](https://tailwindcss.com/) | CSS-first config via `@theme` in `app/app.css`. No SCSS. |
-| Backend & database | PostgreSQL + [Prisma](https://www.prisma.io/) | Hosted on [Supabase](https://supabase.com/). Schema currently has no models — see [Current status](#current-status). |
+| Backend & database | PostgreSQL + [Prisma](https://www.prisma.io/) | Production DB hosted on [Supabase](https://supabase.com/); local dev uses a dedicated Docker Postgres (see [Getting started](#getting-started)). Schema currently covers fungi reference data only — see [`docs/database-schema.md`](./docs/database-schema.md). |
 | Cross-platform | [Capacitor](https://capacitorjs.com/) | Native wrapper for desktop/mobile use in the workbench, still-air box (SAB), and grow room. Native platforms not yet added. |
 | Auth | [Auth0](https://auth0.com/) | Email-based account creation/login. Not yet wired up. |
 | Package manager | [pnpm](https://pnpm.io/) | |
@@ -31,7 +31,10 @@ Recipes (a species/strain's full supply list, measurements, and ratios) are the 
 
 ```bash
 pnpm install
-cp .env.example .env   # fill in DATABASE_URL / AUTH0_* once those services are set up
+cp .env.example .env   # AUTH0_* still needs real values once that service is set up
+docker compose up -d   # starts a local Postgres on localhost:5433 (see docs/database-schema.md)
+pnpm exec prisma migrate dev   # applies migrations to it
+pnpm db:seed            # seeds fungi reference data from fungi_data_staging.json
 pnpm dev                # starts the dev server at http://localhost:5173
 ```
 
@@ -41,6 +44,7 @@ Other scripts:
 pnpm build       # production SPA build -> build/client
 pnpm typecheck   # react-router typegen + tsc
 pnpm prisma:generate  # regenerate the Prisma client after editing prisma/schema.prisma
+pnpm db:seed          # re-run the fungi data seed (idempotent)
 ```
 
 ## Project structure
@@ -50,13 +54,17 @@ app/
   root.tsx          # HTML shell, Google Fonts, error boundary
   app.css           # Tailwind entry + design tokens (@theme)
   routes.ts         # route config
-  routes/home.tsx   # index route
   lib/
-    db.server.ts    # TODO: Prisma client
+    db.server.ts    # Prisma client (pg driver adapter)
     auth.server.ts  # TODO: Auth0
 prisma/
-  schema.prisma     # datasource/generator only, no models yet
+  schema.prisma     # Fungus / FungusImage / Strain models (fungi reference data only so far)
+  seed.ts           # seeds from fungi_data_staging.json — see docs/database-schema.md
+docs/
+  database-schema.md    # Prisma models reference
+  fungi-data-schema.md  # fungi_data_staging.json shape reference
 capacitor.config.ts # Capacitor config stub, no native platforms added
+docker-compose.yml   # local Postgres for dev
 .env.example
 ```
 
@@ -69,7 +77,7 @@ capacitor.config.ts # Capacitor config stub, no native platforms added
 
 ## Current status
 
-This is a foundational scaffold, not a working app yet. The frontend is fully set up and ready for component/route development. Prisma, Capacitor, and Auth0 are structural stubs only — no models, no native platforms, no auth logic — to be filled in as those pieces get built out.
+This is a foundational scaffold, not a working app yet. The frontend is fully set up and ready for component/route development. Prisma now has real models and seeded data for fungi reference data (see [`docs/database-schema.md`](./docs/database-schema.md)), but `Recipe`/`Experiment`/user-account models don't exist yet. Capacitor and Auth0 are still structural stubs only — no native platforms, no auth logic — to be filled in as those pieces get built out.
 
 ## Known issues
 

@@ -1,0 +1,16 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: rhizotek-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: rhizotek
+      POSTGRES_PASSWORD: rhizotek
+      POSTGRES_DB: rhizotek
+    ports:
+      - "5433:5432"
+    volumes:
+      - rhizotek_pgdata:/var/lib/postgresql/data
+
+volumes:
+  rhizotek_pgdata:
